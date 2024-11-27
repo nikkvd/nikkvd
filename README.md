@@ -39,7 +39,7 @@ I'm focused on mastering the skills to analyze, visualize, and build machine lea
 
 ## 📫 Let's Connect!
 
-- **LinkedIn:** [Nikhil Vinod](https://linkedin.com/in/nikhil-vinod)  
+- **LinkedIn:** [Nikhil Vinod](https://www.linkedin.com/in/nikk-vd?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 - **Email:** nikhil.vinodbs@gmail.com 
 
 Feel free to explore my repositories and connect if you'd like to collaborate or learn together on exciting data science projects!
