@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Nikhil Vinod
 
-📊 **Aspiring Data Scientist | Data Science Learner**  
-💻 **Tech Enthusiast | Data Lover**
+📊 **AI Enthusiast| Data Science**  
+💻 **Tech Enthusiast |
 
 Welcome to my GitHub! I am currently learning **Data Science** and am excited to dive deep into data analysis, machine learning, and other fascinating areas within this field. I aim to use my skills to uncover insights from data, solve real-world problems, and contribute to the growing field of data science.
 
