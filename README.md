@@ -9,7 +9,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nikk--vd-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/nikk-vd/)
 [![Email](https://img.shields.io/badge/Email-nikhil.vinodbs%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:nikhil.vinodbs@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-nikkvd.github.io-24292F?style=flat-square&logo=github)](https://nikkvd.github.io/Portfolo-Website/)
-![Open to Work](https://img.shields.io/badge/Status-Open%20to%20AI%2FML%20Roles-3fb950?style=flat-square)
 
 </div>
 
