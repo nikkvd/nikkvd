@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1440" height="3322" alt="image" src="https://github.com/user-attachments/assets/d9e0f185-9246-4c6b-9726-a19425640d08" /><div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer+%40+Advora.ai;Building+RAG+%26+Agentic+AI+Systems;LangChain+%C2%B7+LangGraph+%C2%B7+GCP+%C2%B7+Docker;Python+%C2%B7+NLP+%C2%B7+Deep+Learning" alt="Typing SVG" />
 
@@ -48,11 +48,6 @@
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikkvd&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikkvd&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" width="40%"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=nikkvd&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff" width="50%"/>
